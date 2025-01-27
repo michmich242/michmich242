@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I’m a **Junior** at **Portland State University*
 ## 🚧 Current Projects  
 
 ### **PrepAndCount App**  
-I’m working alongside two peers to develop **PrepAndCount**, a React Native app to track fitness, macros, and meal planning. Our goal is to create a user-friendly tool to help users stay on top of their health goals.
+I’m working alongside two colleagues to develop **PrepAndCount**, a React Native app to track fitness, macros, and meal planning. Our goal is to create a user-friendly tool to help users stay on top of their health goals.
 
 ### Exploring Machine Learning  
 I’m diving deeper into **machine learning** concepts, focusing on predictive algorithms and how they can be applied to solve real-world problems. It’s a journey I’m excited to grow in and apply across future projects.
